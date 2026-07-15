@@ -52,7 +52,7 @@ about:
   home: https://github.com/leelieber2025/scATrans
   dev_url: https://github.com/leelieber2025/scATrans
   doc_url: https://scatrans.readthedocs.io
-  summary: Single-cell active transcription analysis with spliced/unspliced RNA layers
+  summary: a Python toolkit for single-cell differential expression, RNA-velocity-based active transcription scoring, functional enrichment, and visualization.
   license: Apache-2.0
   license_file: LICENSE
 
